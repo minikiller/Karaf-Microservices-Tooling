@@ -11,7 +11,7 @@
     <module>Karaf-Service-Docker</module>
   </modules>
   <properties>
-  	<karaf.version>4.0.1</karaf.version>
+  	<karaf.version>4.0.4</karaf.version>
   </properties>
   <name>Karaf-Microservice-Tooling</name>
   <description>Tooling Project for easy microservices with Apache Karaf</description>
